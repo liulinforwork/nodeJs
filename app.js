@@ -13,6 +13,12 @@ app.use(bodyParser());
 
 app.use(controller());
 
+
+app.use(async(ctx, next) => {
+    await next();
+    ctx.type = 'text/html';
+    ctx.body = '<h1>nodejs dmeo ya!</h1>'
+})
 app.listen(3000);
 
 console.log("server already start...");
