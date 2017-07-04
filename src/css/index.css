@@ -1,0 +1,11 @@
+.btn,.btn_close{
+    background-color: orange;
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+    margin-right: 200px;
+}
+.btn:hover,.btn_close:hover{
+    background-color: #1f82c3;
+}
