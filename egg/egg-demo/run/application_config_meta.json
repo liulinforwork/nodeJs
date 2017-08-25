@@ -1,0 +1,203 @@
+{
+  "keys": "E:\\frontend\\person\\egg\\egg-demo\\config\\config.default.js",
+  "onerror": {
+    "errorPageUrl": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.4.6@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.4.6@egg-onerror\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.1.1@egg-session\\config\\config.default.js",
+    "key": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.1.1@egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.1.1@egg-session\\config\\config.default.js",
+    "encrypt": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.1.1@egg-session\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.1.3@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.1.3@egg-watcher\\config\\config.default.js",
+      "development": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.1.3@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.5.0@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.5.0@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.5.0@egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.5.0@egg-multipart\\config\\config.default.js",
+    "fields": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.5.0@egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.5.0@egg-multipart\\config\\config.default.js",
+    "files": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.5.0@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.5.0@egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.5.0@egg-multipart\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+      "useSession": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+      "cookieName": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+      "sessionName": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+      "headerName": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+      "bodyName": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+      "queryName": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+      "value": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.local.js",
+      "maxAge": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+      "value": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js",
+      "policy": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.11.0@egg-security\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.3.1@egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.3.1@egg-development\\config\\config.default.js",
+    "fastReady": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.3.1@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.3.1@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.2.3@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.2.3@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.2.3@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.2.3@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.2.3@egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.2.2.3@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.4.1@egg-static\\config\\config.default.js",
+    "dir": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.4.1@egg-static\\config\\config.default.js",
+    "dynamic": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.4.1@egg-static\\config\\config.default.js",
+    "preload": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.4.1@egg-static\\config\\config.default.js",
+    "buffer": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.4.1@egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.4.1@egg-static\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-jsonp\\config\\config.default.js"
+  },
+  "view": {
+    "root": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-view\\config\\config.default.js",
+    "cache": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-view\\config\\config.default.js",
+    "mapping": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.1.1@egg-view\\config\\config.default.js"
+  },
+  "env": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+  "name": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+  "proxy": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+  "ipHeaders": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+  "hostHeaders": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "version": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "description": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "main": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "scripts": {
+      "test": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+      "dev": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js"
+    },
+    "author": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "license": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+  "HOME": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+  "rundir": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "notFound": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "sitefile": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "middlewares": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "httpClient": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "encoding": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "formLimit": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "jsonLimit": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "strict": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+      "depth": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+      "parameterLimit": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "encoding": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "env": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "level": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "consoleLevel": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "outputJSON": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "buffer": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "appLogName": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "coreLogName": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "agentLogName": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "errorLogName": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.local.js"
+    }
+  },
+  "httpclient": {
+    "keepAlive": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "freeSocketKeepAliveTimeout": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "timeout": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "maxSockets": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "maxFreeSockets": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "enableDNSCache": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\frontend\\person\\egg\\egg-demo\\node_modules\\.1.6.0@egg\\config\\config.default.js"
+}

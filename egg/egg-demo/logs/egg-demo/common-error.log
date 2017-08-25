@@ -1,0 +1,75 @@
+2017-07-10 10:37:45,592 ERROR 1348 [-/::1/-/12ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (E:\frontend\person\egg\egg-demo\node_modules\.1.6.0@egg\lib\application.js:179:15)
+    at Object.get cookies [as cookies] (E:\frontend\person\egg\egg-demo\node_modules\.1.6.0@egg\app\extend\context.js:17:65)
+    at Object.get [egg-security#CSRF_SECRET] (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\app\extend\context.js:77:32)
+    at Object.ensureCsrfSecret (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\app\extend\context.js:88:13)
+    at Object.csrf (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\lib\middlewares\csrf.js:13:10)
+    at next (native)
+    at Object.<anonymous> (E:\frontend\person\egg\egg-demo\node_modules\.2.5.1@koa-compose\index.js:28:19)
+    at next (native)
+    at onFulfilled (E:\frontend\person\egg\egg-demo\node_modules\.4.6.0@co\index.js:65:19)
+    at E:\frontend\person\egg\egg-demo\node_modules\.4.6.0@co\index.js:54:5
+
+pid: 1348
+hostname: PC-20160713SNEZ
+
+2017-07-10 10:39:24,196 ERROR 5720 [-/::1/-/7ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (E:\frontend\person\egg\egg-demo\node_modules\.1.6.0@egg\lib\application.js:179:15)
+    at Object.get cookies [as cookies] (E:\frontend\person\egg\egg-demo\node_modules\.1.6.0@egg\app\extend\context.js:17:65)
+    at Object.get [egg-security#CSRF_SECRET] (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\app\extend\context.js:77:32)
+    at Object.ensureCsrfSecret (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\app\extend\context.js:88:13)
+    at Object.csrf (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\lib\middlewares\csrf.js:13:10)
+    at next (native)
+    at Object.<anonymous> (E:\frontend\person\egg\egg-demo\node_modules\.2.5.1@koa-compose\index.js:28:19)
+    at next (native)
+    at onFulfilled (E:\frontend\person\egg\egg-demo\node_modules\.4.6.0@co\index.js:65:19)
+    at E:\frontend\person\egg\egg-demo\node_modules\.4.6.0@co\index.js:54:5
+
+pid: 5720
+hostname: PC-20160713SNEZ
+
+2017-07-10 10:39:26,200 ERROR 5720 [-/::1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (E:\frontend\person\egg\egg-demo\node_modules\.1.6.0@egg\lib\application.js:179:15)
+    at Object.get cookies [as cookies] (E:\frontend\person\egg\egg-demo\node_modules\.1.6.0@egg\app\extend\context.js:17:65)
+    at Object.get [egg-security#CSRF_SECRET] (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\app\extend\context.js:77:32)
+    at Object.ensureCsrfSecret (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\app\extend\context.js:88:13)
+    at Object.csrf (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\lib\middlewares\csrf.js:13:10)
+    at next (native)
+    at Object.<anonymous> (E:\frontend\person\egg\egg-demo\node_modules\.2.5.1@koa-compose\index.js:28:19)
+    at next (native)
+    at onFulfilled (E:\frontend\person\egg\egg-demo\node_modules\.4.6.0@co\index.js:65:19)
+    at E:\frontend\person\egg\egg-demo\node_modules\.4.6.0@co\index.js:54:5
+
+pid: 5720
+hostname: PC-20160713SNEZ
+
+2017-07-10 10:39:45,148 ERROR 4880 [-/::1/-/9ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (E:\frontend\person\egg\egg-demo\node_modules\.1.6.0@egg\lib\application.js:179:15)
+    at Object.get cookies [as cookies] (E:\frontend\person\egg\egg-demo\node_modules\.1.6.0@egg\app\extend\context.js:17:65)
+    at Object.get [egg-security#CSRF_SECRET] (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\app\extend\context.js:77:32)
+    at Object.ensureCsrfSecret (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\app\extend\context.js:88:13)
+    at Object.csrf (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\lib\middlewares\csrf.js:13:10)
+    at next (native)
+    at Object.<anonymous> (E:\frontend\person\egg\egg-demo\node_modules\.2.5.1@koa-compose\index.js:28:19)
+    at next (native)
+    at onFulfilled (E:\frontend\person\egg\egg-demo\node_modules\.4.6.0@co\index.js:65:19)
+    at E:\frontend\person\egg\egg-demo\node_modules\.4.6.0@co\index.js:54:5
+
+pid: 4880
+hostname: PC-20160713SNEZ
+
+2017-07-10 10:39:46,082 ERROR 4880 [-/::1/-/2ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (E:\frontend\person\egg\egg-demo\node_modules\.1.6.0@egg\lib\application.js:179:15)
+    at Object.get cookies [as cookies] (E:\frontend\person\egg\egg-demo\node_modules\.1.6.0@egg\app\extend\context.js:17:65)
+    at Object.get [egg-security#CSRF_SECRET] (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\app\extend\context.js:77:32)
+    at Object.ensureCsrfSecret (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\app\extend\context.js:88:13)
+    at Object.csrf (E:\frontend\person\egg\egg-demo\node_modules\.1.11.0@egg-security\lib\middlewares\csrf.js:13:10)
+    at next (native)
+    at Object.<anonymous> (E:\frontend\person\egg\egg-demo\node_modules\.2.5.1@koa-compose\index.js:28:19)
+    at next (native)
+    at onFulfilled (E:\frontend\person\egg\egg-demo\node_modules\.4.6.0@co\index.js:65:19)
+    at E:\frontend\person\egg\egg-demo\node_modules\.4.6.0@co\index.js:54:5
+
+pid: 4880
+hostname: PC-20160713SNEZ
+

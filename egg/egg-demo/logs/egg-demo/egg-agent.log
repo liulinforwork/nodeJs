@@ -1,0 +1,15 @@
+2017-07-10 10:37:42,386 INFO 5340 [egg:logger] init all loggers with options: {"dir":"E:\\frontend\\person\\egg\\egg-demo\\logs\\egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-10 10:37:42,494 INFO 5340 [egg-watcher:agent] watcher start success
+2017-07-10 10:38:56,242 WARN 5340 [agent:development] reload worker because E:\frontend\person\egg\egg-demo\config\config.default.js change
+2017-07-10 10:38:57,209 WARN 5340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-10 10:39:10,254 WARN 5340 [agent:development] reload worker because E:\frontend\person\egg\egg-demo\config\config.default.js change
+2017-07-10 10:39:10,956 WARN 5340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-10 10:39:16,094 WARN 5340 [agent:development] reload worker because E:\frontend\person\egg\egg-demo\config\config.default.js change
+2017-07-10 10:39:19,188 WARN 5340 [agent:development] reload worker because E:\frontend\person\egg\egg-demo\config\config.default.js change
+2017-07-10 10:39:19,984 WARN 5340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-10 10:39:20,655 WARN 5340 [agent:development] reload worker because E:\frontend\person\egg\egg-demo\config\config.default.js change
+2017-07-10 10:39:21,580 WARN 5340 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
+2017-07-10 10:39:42,256 INFO 5156 [egg:logger] init all loggers with options: {"dir":"E:\\frontend\\person\\egg\\egg-demo\\logs\\egg-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-10 10:39:42,334 INFO 5156 [egg-watcher:agent] watcher start success
+2017-07-10 10:40:01,615 WARN 5156 [agent:development] reload worker because E:\frontend\person\egg\egg-demo\config\config.default.js change
+2017-07-10 10:40:02,614 WARN 5156 [ClusterClient:Connection] socket is closed by other side while there were still unhandled data in the socket buffer
